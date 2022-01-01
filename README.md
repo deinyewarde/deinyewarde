@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deinyewarde
-- 👀 I’m interested in Data analysis and Network Security
-- 🌱 I’m currently learning Data Analysis with Python
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently on a journey to becoming a full fledged DevOps engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
 
