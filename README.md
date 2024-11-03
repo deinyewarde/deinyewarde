@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @deinyewarde
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently on a journey to becoming a full fledged DevOps engineer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me...
+- 🌱 I’m a Cloud Solutions Architect
 
 <!---
 deinyewarde/deinyewarde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
